@@ -1,0 +1,6 @@
+outs:
+- md5: 258463ad61b949fe57a73f228b4c70d2.dir
+  size: 234867739
+  nfiles: 88
+  hash: md5
+  path: nii_body

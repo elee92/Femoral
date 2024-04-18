@@ -1,0 +1,6 @@
+outs:
+- md5: 3b10bdd7fab88ddf5e0cd95c86b298a0.dir
+  size: 13694327096
+  nfiles: 176
+  hash: md5
+  path: nii

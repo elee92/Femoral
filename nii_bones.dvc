@@ -1,0 +1,6 @@
+outs:
+- md5: 9abe78ea24bde5d78ee1dd9e20ede4fd.dir
+  size: 177240655
+  nfiles: 88
+  hash: md5
+  path: nii_bones
